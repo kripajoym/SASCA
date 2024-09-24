@@ -26,3 +26,4 @@ steps:
     rescan: true
     scanid: '4baffd1d-528b-4b2f-a85e-28d7b5346785'
     scanMethod: 'IRX'
+    includeSCA: true
